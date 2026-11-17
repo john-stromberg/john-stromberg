@@ -1,4 +1,3 @@
-### Hi, I'm Jack Stromberg
 
 I build quantitative research tools and financial software — portfolio
 construction, fixed income, econometrics, advisor workflows, and planning apps.
