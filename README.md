@@ -1,5 +1,3 @@
-### Hi, I'm Jack Stromberg
-
 I build analytical applications and workflows with python, R, and various AI tools
 
 **[Project portfolio →](https://john-stromberg.github.io/)** ·
