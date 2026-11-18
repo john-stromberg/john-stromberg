@@ -4,7 +4,8 @@ I build analytical applications and workflows with python, R, and various AI too
 
 **[Project portfolio →](https://john-stromberg.github.io/)** ·
 **[GitHub](https://github.com/john-stromberg)** ·
-**[econkit](https://github.com/john-stromberg/econkit)**
+**[econkit](https://github.com/john-stromberg/econkit)** ·
+**[value-creation](https://github.com/john-stromberg/value-creation)**
 
 ---
 
@@ -20,6 +21,15 @@ remotes::install_github("john-stromberg/econkit")
 library(econkit)
 d <- ek_get_series()
 predict(ek_recession_model(d, horizon = 12)) |> tail()
+```
+
+**[value-creation](https://github.com/john-stromberg/value-creation)** (`pevc`) — Python toolkit for middle-market PE value creation: company diagnostics, initiative / VCP planning, LBO returns, and a Streamlit dashboard (library + CLI).
+
+```python
+pip install -e ".[dashboard]"
+pevc sample --out data/samples
+pevc analyze data/samples/manufacturing --out reports/apex.xlsx
+pevc dashboard
 ```
 
 ## Project collections
