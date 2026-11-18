@@ -1,6 +1,5 @@
 
-I build quantitative research tools and financial software — portfolio
-construction, fixed income, econometrics, advisor workflows, and planning apps.
+I build analytical applications and workflows with python, R, and various AI tools
 
 **[Project portfolio →](https://john-stromberg.github.io/)** ·
 **[GitHub](https://github.com/john-stromberg)** ·
