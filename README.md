@@ -35,11 +35,6 @@ predict(ek_recession_model(d, horizon = 12)) |> tail()
 Each collection keeps projects independent — their own README, dependencies,
 tests, and entry points.
 
-## Standalone
-
-- [ReturnByDate](https://github.com/john-stromberg/returnbydate) — retailer return and price-matching policy comparison
-- [Data Analytics Bootcamp](https://github.com/john-stromberg/data-analytics-bootcamp-2019) — archived coursework and notebooks
-
 ## Stack I use often
 
 `Python` · `R` · `.NET` · `Streamlit` · `Quarto` · portfolio & rates analytics ·
