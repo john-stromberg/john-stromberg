@@ -4,8 +4,7 @@ I build analytical applications and workflows with python, R, and various AI too
 
 **[Project portfolio →](https://john-stromberg.github.io/)** ·
 **[GitHub](https://github.com/john-stromberg)** ·
-**[econkit](https://github.com/john-stromberg/econkit)** ·
-**[value-creation](https://github.com/john-stromberg/value-creation)**
+**[econkit](https://github.com/john-stromberg/econkit)**
 
 ---
 
@@ -23,14 +22,13 @@ d <- ek_get_series()
 predict(ek_recession_model(d, horizon = 12)) |> tail()
 ```
 
-**[value-creation](https://github.com/john-stromberg/value-creation)** (`pevc`) — Python toolkit for middle-market PE value creation: company diagnostics, initiative / VCP planning, LBO returns, and a Streamlit dashboard (library + CLI).
+**value-creation** (`pevc`) — Private · source available on request
 
-```python
-pip install -e ".[dashboard]"
-pevc sample --out data/samples
-pevc analyze data/samples/manufacturing --out reports/apex.xlsx
-pevc dashboard
-```
+Python toolkit for middle-market PE operating partners and deal teams: load portfolio-company financials, diagnose value leakage, size a value creation plan (VCP), and translate it into sponsor returns via library, CLI, and Streamlit dashboard.
+
+- Diagnostics, pricing, working capital, commercial retention, contracts, pipeline, and operations / OEE
+- Initiative register and VCP planning with LBO returns and Monte Carlo risk
+- Excel analysis packs and audience-specific investment package drafts
 
 ## Project collections
 
