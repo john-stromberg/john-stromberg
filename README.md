@@ -8,17 +8,13 @@ I build analytical applications and workflows with python, R, and various AI too
 
 ## Featured
 
-**[econkit](https://github.com/john-stromberg/econkit)** — R toolkit for applied
-economic analysis in asset management and banking. Macro and market data become
-recession risk, regime signals, scenario stress, rate/credit analytics, and
-governed reports (optional plumber API).
+**[econkit](https://github.com/john-stromberg/econkit)** — Open source
 
-```r
-remotes::install_github("john-stromberg/econkit")
-library(econkit)
-d <- ek_get_series()
-predict(ek_recession_model(d, horizon = 12)) |> tail()
-```
+R toolkit for applied economic analysis in asset management and banking: turn macro and market data into recession risk, regime signals, scenario stress, rate and credit analytics, and governed reports.
+
+- Recession models, Sahm rule, nowcasts, and Minnesota-prior BVAR forecasts
+- Scenario libraries with SAA stress, ALM NII/EVE, FTP, and lifetime ECL workflows
+- Optional plumber API with model inventory, run lineage, and monitoring
 
 **value-creation** (`pevc`) — Private · source available on request
 
