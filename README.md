@@ -1,4 +1,4 @@
-I build analytical applications for markets, private equity, and advisory work — research desks, econometrics toolkits, and value-creation workflows in Python and R, with AI tools in the loop.
+Building analytical tools and systems
 
 **[Project portfolio →](https://john-stromberg.github.io/)** ·
 **[GitHub](https://github.com/john-stromberg)** ·
