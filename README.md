@@ -2,11 +2,20 @@ I build analytical applications and workflows with python, R, and various AI too
 
 **[Project portfolio →](https://john-stromberg.github.io/)** ·
 **[GitHub](https://github.com/john-stromberg)** ·
+**[Macro Desk](https://john-stromberg.github.io/macro-desk/)** ·
 **[econkit](https://github.com/john-stromberg/econkit)**
 
 ---
 
 ## Featured
+
+**[Macro Desk](https://github.com/john-stromberg/macro-lens)** — Open source · [Live demo](https://john-stromberg.github.io/macro-desk/)
+
+Macro hedge fund PM and research desk: fund book with factor risk and P&L, living theses, catalyst calendar, scenario shock packs, and market tools for surprises, curves, policy, regimes, and cross-asset tape.
+
+- Book view with AUM, gross/net, VaR, and sleeve filters
+- Theses linked to live expressions and upcoming catalysts
+- Scenario lab with estimated fund P&L winners and losers
 
 **[econkit](https://github.com/john-stromberg/econkit)** — Open source
 
@@ -39,7 +48,7 @@ tests, and entry points.
 
 ## Stack I use often
 
-`Python` · `R` · `.NET` · `Streamlit` · `Quarto` · portfolio & rates analytics ·
+`Python` · `R` · `.NET` · `Streamlit` · `Quarto` · `Next.js` · portfolio & rates analytics ·
 model governance patterns
 
 ---
