@@ -9,6 +9,14 @@ Building analytical tools and systems
 
 ## Featured
 
+**[pwm-toolkit](https://github.com/john-stromberg/pwm-toolkit)** — Open source
+
+Private wealth analyst and PM toolkit: household analytics, tax-aware rebalancing, TLH, Roth/RMD planning, Monte Carlo goals, custodian imports, book exceptions, and client reports via library, CLI, and Streamlit.
+
+- IPS drift, performance/risk, tax-aware rebalance, and contribution/withdrawal routing
+- Custodian CSV import, reconciliation, and multi-household exception scanning
+- Roth conversion, RMD, and Monte Carlo spending-success analysis
+
 **[Macro Desk](https://github.com/john-stromberg/macro-lens)** — Open source · [Live demo](https://john-stromberg.github.io/macro-desk/)
 
 Macro hedge fund PM and research desk: fund book with factor risk and P&L, living theses, catalyst calendar, scenario shock packs, and market tools for surprises, curves, policy, regimes, and cross-asset tape.
@@ -41,7 +49,7 @@ Python toolkit for middle-market PE operating partners and deal teams: load port
 | [Fixed Income Analytics](https://github.com/john-stromberg/fixed-income-analytics) | Bonds, municipals, MBS, immunization, credit spreads (8 projects) | Python |
 | [Quantitative Research in R](https://github.com/john-stromberg/quant-research-r) | Factors, forecasting, causal inference, allocation (12 projects) | R |
 | [Advisor Platform](https://github.com/john-stromberg/advisor-platform) | Meeting prep, proposals, compliance, cashflow, withdrawals (9 projects) | .NET |
-| [Wealth Planning Apps](https://github.com/john-stromberg/wealth-planning-apps) | Calculators, dashboards, financial data pipeline (4 projects) | Python / Streamlit |
+| [Wealth Planning Apps](https://github.com/john-stromberg/wealth-planning-apps) | Calculators, dashboards, PWM toolkit, financial data pipeline (5 projects) | Python / Streamlit |
 
 Each collection keeps projects independent — their own README, dependencies,
 tests, and entry points.
